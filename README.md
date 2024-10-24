@@ -50,7 +50,7 @@ The optimizer used is Adam, and binary cross-entropy is used as the loss functio
 ## Results
 
 The model achieves the following performance metrics on the test set:
-- **Accuracy**: 94.43%
+- **Accuracy**: 97%
 
 ## Installation
 
